@@ -1,0 +1,13 @@
+{
+    "Hello": "Hello",
+    "Welcome!": "Welcome!",
+    "Please use the below mentioned email & password as a login credential": "Please use the below mentioned email & password as a login credential",
+    "Email": "Email",
+    "Password": "Password",
+    "Domain": "Domain",
+    "Copyright": "Copyright",
+    "All rights reserved": "All rights reserved",
+    "Please use the below mentioned password as a default password": "Please use the below mentioned password as a default password",
+    "Please use the below mentioned code to reset your password": "Please use the below mentioned code to reset your password",
+    "This code will expire in 15 minutes and can only be used once": "This code will expire in 15 minutes and can only be used once"
+}

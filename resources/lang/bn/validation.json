@@ -1,0 +1,15 @@
+{
+    "Name is required": "Name is required",
+    "Name is not more than 255 characters": "Name is not more than 255 characters",
+    "Status is required": "Status is required",
+    "Company name is required": "Company name is required",
+    "Email is required": "Email is required",
+    "Email should be unique": "Email should be unique",
+    "Phone is required": "Phone is required",
+    "Phone should be unique": "Phone should be unique",
+    "Total employee is required": "Total employee is required",
+    "Business type is required": "Business type is required",
+    "Trade license number is required": "Trade license number is required",
+    "Country is required": "Country is required",
+    "Validation field required": "Validation field required"
+}

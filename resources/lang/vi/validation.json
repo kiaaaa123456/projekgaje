@@ -1,0 +1,11 @@
+{
+    "Name is required": "Name is required",
+    "Status is required": "Status is required",
+    "Machine Name is required": "Machine Name is required",
+    "Origin is required": "Origin is required",
+    "Installation Date is required": "Installation Date is required",
+    "Name is not more than 255 characters": "Name is not more than 255 characters",
+    "Email is required": "Email is required",
+    "Phone is required": "Phone is required",
+    "Address is required": "Address is required"
+}

@@ -1,0 +1,16 @@
+{
+    "Name is required": "Name is required",
+    "Name is not a valid string": "Name is not a valid string",
+    "Name may not be greater than 191 characters": "Name may not be greater than 191 characters",
+    "Progress is required": "Progress is required",
+    "Status is required": "Status is required",
+    "Client is required": "Client is required",
+    "Billing type is required": "Billing type is required",
+    "Estimated hour is required": "Estimated hour is required",
+    "Start date is required": "Start date is required",
+    "End date is required": "End date is required",
+    "Priority is required": "Priority is required",
+    "Description is required": "Description is required",
+    "Name is not more than 255 characters": "Name is not more than 255 characters",
+    "Upper Roles is required": "Upper Roles is required"
+}

@@ -1,0 +1,23 @@
+{
+    "Attendance": "\u0e40\u0e02\u0e49\u0e32\u0e07\u0e32\u0e19",
+    "Attendance report": "\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e40\u0e02\u0e49\u0e32\u0e07\u0e32\u0e19",
+    "Weekend Setup": "Weekend Setup",
+    "Holiday Setup": "Holiday Setup",
+    "Shift Setup": "Shift Setup",
+    "Duty Schedule": "Duty Schedule",
+    "Attendance History": "Attendance History",
+    "Consider Time": "Consider Time",
+    "Live Tracking": "Live Tracking",
+    "Edit Attendance": "Edit Attendance",
+    "Select Employee": "Select Employee",
+    "Attendance has been updated": "Attendance has been updated",
+    "Normal": "Normal",
+    "Face Recognition": "\u0e2a\u0e41\u0e01\u0e19\u0e43\u0e1a\u0e2b\u0e19\u0e49\u0e32",
+    "QRCODE": "QRCODE",
+    "QR Code": "QR Code",
+    "Scan me to checkin": "Scan me to checkin",
+    " Employee": "Employee",
+    "Early leave reason": "Early leave reason",
+    "Weekend": "Weekend",
+    "Pending": "Pending"
+}

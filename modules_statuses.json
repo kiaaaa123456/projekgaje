@@ -1,0 +1,6 @@
+{
+    "VideoConference": false,
+    "SingleDeviceLogin": false,
+    "Services": true,
+    "EmployeeDocuments": true
+}

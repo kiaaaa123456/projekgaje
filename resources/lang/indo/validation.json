@@ -1,0 +1,8 @@
+{
+    "Days is required": "Days is required",
+    "Days is not a number": "Days is not a number",
+    "Department is required": "Department is required",
+    "Employee is required": "Employee is required",
+    "Type is required": "Type is required",
+    "Status is required": "Status is required"
+}

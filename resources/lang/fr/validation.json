@@ -1,0 +1,20 @@
+{
+    "Title is required": "Title is required",
+    "Title is too long than 191 character": "Title is too long than 191 character",
+    "Location is required": "Location is required",
+    "Location is too long than 191 character": "Location is too long than 191 character",
+    "Date schedule is required": "Date schedule is required",
+    "Description is required": "Description is required",
+    "Description is not more than 800 characters": "Description is not more than 800 characters",
+    "Start time is required": "Start time is required",
+    "End time is required": "End time is required",
+    "Appointment with is required": "Appointment with is required",
+    "Name is required": "Name is required",
+    "Name is not a valid string": "Name is not a valid string",
+    "Name may not be greater than 191 characters": "Name may not be greater than 191 characters",
+    "Progress is required": "Progress is required",
+    "Status is required": "Status is required",
+    "Start date is required": "Start date is required",
+    "End date is required": "End date is required",
+    "Priority is required": "Priority is required"
+}

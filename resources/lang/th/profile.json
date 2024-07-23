@@ -1,0 +1,21 @@
+{
+    "Contract": "Contract",
+    "Date of Birth": "Date of Birth",
+    "Nationality": "Nationality",
+    "Passport Number": "Passport Number",
+    "Passport File": "Passport File",
+    "NID Number": "NID Number",
+    "NID File": "NID File",
+    "Avatar": "Avatar",
+    "TIN": "TIN",
+    "New Password": "New Password",
+    "Confirm Password": "Confirm Password",
+    "Enter Nationality": "Enter Nationality",
+    "NID\/EID Number": "NID\/EID Number",
+    "Enter NID Number": "Enter NID Number",
+    "NID\/EID File": "NID\/EID File",
+    "Enter TIN": "Enter TIN",
+    "Enter New Password": "Enter New Password",
+    "Enter Confirm Password": "Enter Confirm Password",
+    "Enter Passport Number": "Enter Passport Number"
+}
